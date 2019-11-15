@@ -1,0 +1,85 @@
+[33mcommit c56cac5c95b0f90927243618536378127eb15450[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Rafael Lima <rafaellimanonato1992@gmail.com>
+Date:   Fri Nov 15 15:46:32 2019 -0300
+
+    mudando o nome do curso de ansible
+
+[33mcommit be45e2c6c733800fa532ddee7bfe20771549857c[m[33m ([m[1;31mlocal/master[m[33m)[m
+Merge: 48a175a 6f25a17
+Author: Rafael Lima <rafaellimanonato1992@gmail.com>
+Date:   Fri Nov 15 15:12:22 2019 -0300
+
+    Merge branch 'master' of C:/Users/Rafael/Desktop/Alura/git-e-github/local
+
+[33mcommit 6f25a17241b21fd72d1d56f4a560d4f4ec711b09[m
+Author: Ana <anateste@gmail.com>
+Date:   Fri Nov 15 15:10:16 2019 -0300
+
+    alterando nome curso kuberbets
+
+[33mcommit 48a175a6efb51bb24f167aff79dc69c38f9c57d8[m[33m ([m[1;32mtitulo[m[33m)[m
+Author: Rafael Lima <rafaellimanonato1992@gmail.com>
+Date:   Fri Nov 15 15:05:20 2019 -0300
+
+    corrigindo nome do curso de doker
+
+[33mcommit 7e17d9bae6db0c259dfc2246cee8a69bc51220f4[m
+Author: Ana <anateste@gmail.com>
+Date:   Fri Nov 15 14:59:29 2019 -0300
+
+    adiconando curso de kubernets
+
+[33mcommit 0ea7be78fec42ab2bfc98dfde87200b188a50349[m
+Author: Rafael Lima <rafaellimanonato1992@gmail.com>
+Date:   Fri Nov 15 14:55:04 2019 -0300
+
+    Alterando titulo da pagina
+
+[33mcommit b704e69ba0f27a239e5c0dbd0afae188e529a769[m[33m ([m[1;31morigin/master[m[33m, [m[1;31mgithub/master[m[33m)[m
+Author: pessoal <pessoalteste@gmail.com>
+Date:   Fri Nov 15 13:52:59 2019 -0300
+
+    pessoal teste
+
+[33mcommit d2bcc22a65cb3a09341abe88fcd3465d6fe38010[m
+Author: Ana <anateste@gmail.com>
+Date:   Fri Nov 15 13:26:22 2019 -0300
+
+    ataulização ana
+
+[33mcommit c8223c083af42131cf1d77a41a8e210696717e2b[m
+Merge: 6e032c6 cee2902
+Author: Rafael Lima <rafaellimanonato1992@gmail.com>
+Date:   Fri Nov 15 13:24:40 2019 -0300
+
+    atualização
+
+[33mcommit 6e032c67991ac1302c838040d970a31a24e8702c[m
+Author: Rafael Lima <rafaellimanonato1992@gmail.com>
+Date:   Fri Nov 15 13:18:35 2019 -0300
+
+    teste rafael2
+
+[33mcommit 04671dfd8ae9c874115e6a5343ed673a1c9e2787[m
+Author: Rafael Lima <rafaellimanonato1992@gmail.com>
+Date:   Fri Nov 15 13:17:23 2019 -0300
+
+    teste rafael
+
+[33mcommit cee2902c6112f3b850b1cb3dccd98aa61a2d5c44[m
+Author: Ana <anateste@gmail.com>
+Date:   Fri Nov 15 13:14:15 2019 -0300
+
+    Teste ana2
+
+[33mcommit 9a49f6a01147b07a1c2dab1bf62db067f6a0ed64[m
+Author: Ana <anateste@gmail.com>
+Date:   Fri Nov 15 13:07:28 2019 -0300
+
+    Teste ana
+
+[33mcommit 08b1cba644a47643c49893c8e752cb942d4c1900[m
+Author: Rafael Lima <rafaellimanonato1992@gmail.com>
+Date:   Fri Nov 15 12:36:15 2019 -0300
+
+    Iniciando projeto
